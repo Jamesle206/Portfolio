@@ -1,7 +1,35 @@
 h1 {
 text-align: center;
-
+}
+.important {
+  color: red;
+  font-weight: bold;
+}
+.highlight {
+  font-style: italic;
 }
 .img {
-  width: 50%;
+  float: left;
+}
+body {
+  background-color: skyblue
+  
+}
+.codingphoto {
+  width: 500px;
+  height: 300px;
+  text-align: center;
+
+}.jameslepic {
+  width: 500px
+  height: 300px;
+  text-align: center;
+}
+.column {
+  width: 300px
+  float: left;
+}
+.my-class {
+  border: 10px solid green;
+  padding: 4px;
 }
