@@ -17,11 +17,11 @@ _A html page to display what I've learned in my first week at Epicodus!_
 
 ## Support and contact details
 
-_Contact James Le - Jamesle206@gmail.com -
+Contact James Le - Jamesle206@gmail.com
 
 ## GitHub page's links
 
-https://jamesle206.github.io/resort-website/
+https://github.com/Jamesle206/Portfolio.git
 
 ## Technologies Used
 

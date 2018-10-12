@@ -13,7 +13,8 @@ text-align: center;
 }
 body {
   background-color: skyblue
-  
+
+
 }
 .codingphoto {
   width: 500px;
@@ -30,6 +31,25 @@ body {
   float: left;
 }
 .my-class {
-  border: 10px solid green;
+  border: 10px solid White;
   padding: 4px;
+}
+h2 {
+  text-align: center;
+}
+h2 p {
+  text-align: center;
+}
+.hobbies {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px
+
+}
+.aboutme {
+  text-align: center;
+}
+#currenthobbies {
+  text-underline-position: below;
+
 }
